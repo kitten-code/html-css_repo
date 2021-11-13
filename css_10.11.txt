@@ -1,0 +1,11 @@
+
+th znacznik nagłówkowy w tabeli
+valign wyrównanie w osi pionowej
+bordercolor(light/dark)-obramowaniue tabeliw htmal
+nowrap- blokowanie tabeli
+tbody-połączenie tabeli
+
+gradacja najpierw wewnetrzne potem zewnetrzne
+
+Poodstawowe założenie jest takie aby gdy przeglądarka nie obsluguje css wyswietlily sie napiusy
+/*a:maly:link{font-size: 10px;}*/
